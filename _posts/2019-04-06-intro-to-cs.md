@@ -18,7 +18,7 @@ tags:
 <h3 id="heading3">Why to learn?</h3>
 <p>To solve the problems and make your everyday life simple and efficient. If you are a math teacher, it can provide you with a long list of prime numbers which is difficult for human to remember. If you are an accountant, it can balance the money for you. There are much more things that can be done and every one has their own opinion on why to learn. Too much reading? Watch a video below to get inspired.</p>
 <br/>
-<iframe src="https://www.youtube.com/embed/uEdyTlI3BAA" width="676" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/uEdyTlI3BAA" width="90%" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <h3 id="heading3">How to learn?</h3>
 <p>If you are excited to start and learn computer science and programming, then there are tons and tons of material available on the web and internet. Make search engines your best friend. There are some amazing websites such as <a href="https://www.coursera.org/">coursera</a>, <a href="https://www.edx.org/">edx</a> and often youtube to learn. <em>CS50 Harvard</em>, A little hint here!</p>

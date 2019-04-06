@@ -5,6 +5,7 @@ tags:
 - Computer Science
 - Programming
 - Code
+comments: true
 ---
 
 <p>I want to start this with a story of myself getting introduced to computer science and programming. When I was around 13 years old, my sister showed me a program in <em>C</em> that prints <b>Hello World</b>. I assume most of the people started the same thing but may be with a different programming language. But my real journey in computer science started off at the age of 17 when I took computer science and engineering major during my Bachelors. That's too much talking, eh? Okay, Let's get to the point</p>

@@ -11,32 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S in Computer Science, Arizona State University, 2021 (expected)
+* B.Tech in Computer Science and Engineering, National Institute of Technology Warangal, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020: Software Development Engineer Intern
+  * GoDaddy
+  * Duties included: Developing RESTful APIs
+  * Team: Global Platform
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2017: Data Engineer
+  * Target
+  * Duties included: Developing technologies for efficient processing of big data
+  * Team: Fulfillment Center Operations
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, Java, C++, SQL, Shell
+* PyTorch, Apache MXNet, Scikit-Learn, Numpy
+* Hadoop
+  * Spark
+  * Hive
+  * Sqoop
+  * Oozie
+  * Kafka
+* Web development
+  * Express JS
+  * React JS
+  * Dropwizard
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -56,4 +61,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

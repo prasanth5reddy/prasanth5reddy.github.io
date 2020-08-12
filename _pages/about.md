@@ -3,7 +3,7 @@ permalink: /
 title: "About"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -16,7 +16,8 @@ I received my Bachelor's degree in Computer Science and Engineering from [Nation
 
 Recent News
 ======
-* May 25, 2020 - Received [MORE](https://graduate.engineering.asu.edu/more/) student research award from ASU for Fall 2020.
+* Aug 11, 2020 - Received Engineering Graduate Fellowship from [Ira A. Fulton Schools of Engineering](https://engineering.asu.edu), ASU for Fall 2020.
+* May 25, 2020 - Received [MORE](https://graduate.engineering.asu.edu/more/) student research award from ASU for Spring 2021.
 * May 18, 2020 - Started internship as Software Development Engineer at [GoDaddy](http://godaddy.com).
 * Aug 22, 2019 - Started M.S. Computer Science at [ASU](https://www.asu.edu).
 * Jul 17, 2017 - Started working as a Data Engineer at [Target](http://target.com), Bangalore, India.

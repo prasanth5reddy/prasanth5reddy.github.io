@@ -16,9 +16,10 @@ I received my Bachelor's degree in Computer Science and Engineering from [Nation
 
 Recent News
 ======
+* Sep 08, 2020 - Started Fall 2020 internship as Software Development Engineer at [GoDaddy](http://godaddy.com).
 * Aug 11, 2020 - Received Engineering Graduate Fellowship from [Ira A. Fulton Schools of Engineering](https://engineering.asu.edu), ASU for Fall 2020.
 * May 25, 2020 - Received [MORE](https://graduate.engineering.asu.edu/more/) student research award from ASU for Spring 2021.
-* May 18, 2020 - Started internship as Software Development Engineer at [GoDaddy](http://godaddy.com).
+* May 18, 2020 - Started Summer 2020 internship as Software Development Engineer at [GoDaddy](http://godaddy.com).
 * Aug 22, 2019 - Started M.S. Computer Science at [ASU](https://www.asu.edu).
 * Jul 17, 2017 - Started working as a Data Engineer at [Target](http://target.com), Bangalore, India.
 * Nov 01, 2017 - Graduated with a degree of B.Tech in Computer Science and Engineering from [NIT Warangal](https://www.nitw.ac.in), India.

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,6 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+<h1 align="center">Prasanth Buddareddygari</h1>
+<div align="center">
+  <a href="mailto:pbuddare@asu.edu?Subject=From%20Github%20Website" target="_top">pbuddare@asu.edu</a>
+  <p align="center">Find updated CV in pdf format
+    <a href="/files/Prasanth_CV.pdf" target="_blank">here</a>
+  </p>
+</div>
+
 Education
 ======
 * M.S in Computer Science, Arizona State University, 2021 (expected)
@@ -16,6 +24,11 @@ Education
 
 Work experience
 ======
+* Fall 2020: Software Development Engineer Intern
+  * GoDaddy
+  * Duties included: Developing RESTful APIs
+  * Team: Global Platform
+
 * Summer 2020: Software Development Engineer Intern
   * GoDaddy
   * Duties included: Developing RESTful APIs
@@ -25,7 +38,7 @@ Work experience
   * Target
   * Duties included: Developing technologies for efficient processing of big data
   * Team: Fulfillment Center Operations
-  
+
 Skills
 ======
 * Python, Java, C++, SQL, Shell
@@ -46,19 +59,19 @@ Skills
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->

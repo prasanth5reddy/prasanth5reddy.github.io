@@ -11,9 +11,11 @@ body {
   margin: 0;
   padding: 0;
   padding-bottom: 9em;
-  color: $text-color;
+  // color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
+  font-weight: 300;
+  background-color: #fdfdfd;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -112,13 +114,20 @@ blockquote {
 /* links */
 
 a {
+  color: #2a7ae2; 
+  text-decoration: none;
   &:focus {
     @extend %tab-focus;
   }
 
   &:hover,
   &:active {
-    outline: 0;
+    color: #000; 
+    text-decoration: underline;
+  }
+
+  &:visited {
+    color: #205caa;
   }
 }
 

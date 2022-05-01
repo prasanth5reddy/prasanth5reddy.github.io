@@ -13,6 +13,6 @@ author_profile: true
 
 <h1 align="center">Coming Soon!</h1>
 
-<!-- {% for post in site.publications reversed %}
+{% for post in site.projects reversed %}
   {% include archive-single.html %}
-{% endfor %} -->
+{% endfor %}

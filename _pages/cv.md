@@ -11,13 +11,13 @@ redirect_from:
 
 <h1 align="center">Prasanth Buddareddygari</h1>
 <div align="center">
-  <a href="mailto:pbuddare@asu.edu?Subject=From%20Github%20Website" target="_top">pbuddare@asu.edu</a>
+  <a href="mailto:prasanthb588@gmail.com?Subject=From%20Github%20Website" target="_top">prasanthb588@gmail.com</a>
   <p align="center">Find updated CV in pdf format
     <a href="/files/Prasanth_CV.pdf" target="_blank">here</a>
   </p>
 </div>
 
-Education
+<!-- Education
 ======
 * M.S in Computer Science, Arizona State University, 2021 (expected)
 * B.Tech in Computer Science and Engineering, National Institute of Technology Warangal, 2017
@@ -52,7 +52,7 @@ Skills
 * Web development
   * Express JS
   * React JS
-  * Dropwizard
+  * Dropwizard -->
 
 <!-- Publications
 ======

@@ -11,8 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-<h1 align="center">Coming Soon!</h1>
-
-<!-- {% for post in site.publications reversed %}
+{% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %} -->
+{% endfor %}

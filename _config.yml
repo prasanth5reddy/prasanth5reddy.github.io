@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Prasanth"
 title_separator          : "-"
 name                     : &name "Prasanth Buddareddygari"
-description              : &description "Graduate Student at Arizona State University"
+description              : &description "SDE 2 at Amazon"
 url                      : https://prasanth5reddy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "prasanth5reddy/prasanth5reddy.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Prasanth Buddareddygari"
   avatar           : "profile.png"
-  bio              : "M.S. Computer Science, Arizona State University"
-  location         : "Tempe, Arizona"
+  bio              : "SDE 2 at Amazon, ASU'21, NITW'17"
+  location         : "Seattle, WA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=hWy9n1UAAAAJ&hl=en"
-  email            : "pbuddare@asu.edu"
+  email            : "prasanthb588@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

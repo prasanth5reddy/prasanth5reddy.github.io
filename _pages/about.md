@@ -8,14 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's Computer Science student at [Arizona State University](https://www.asu.edu) where I am a member of [Active Perception Group](https://yezhouyang.engineering.asu.edu/research-group/) advised by Prof. [Yezhou Yang](http://yezhouyang.engineering.asu.edu) and co-advised by Prof. [Yi Ren](http://semte.engineering.asu.edu/ren-yi/).
+I am currently a Software Development Engineer 2 at [Amazon](https://www.amazon.com) under [SCOT](http://bit.ly/amazon-scot) team.
 
-My primary research focus is on understanding behaviour of AI under certain adversarial perturbations and improving the robustness in deep reinforcement learning, computer vision, and machine learning methods. More specifically, my current research is to exploit deep reinforcement learning agents for autononomous driving and in turn make them robust and secure under different possible threats.
+I earned my MS Computer Science degree from [Arizona State University](https://www.asu.edu) where I was a member of [Active Perception Group](https://yezhouyang.engineering.asu.edu/research-group/) advised by Prof. [Yezhou Yang](http://yezhouyang.engineering.asu.edu) and co-advised by Prof. [Yi Ren](http://semte.engineering.asu.edu/ren-yi/). My primary research focus in MS was understanding behaviour of AI under certain adversarial perturbations and improving the robustness in deep reinforcement learning, computer vision, and machine learning methods. More specifically, worked on exploiting deep reinforcement learning agents for autononomous driving to study the robustness under different possible threats.
 
-Previously, I worked as a Data Engineer at [Target](http://target.com) where I developed multiple extract, transform, and load processes for the movement of big data. Prior to that, I received my Bachelor's degree in Computer Science and Engineering from [National Institute of Technology, Warangal](https://www.nitw.ac.in), India where I was an undergraduate researcher under the guidance of Prof. [Raju Bhukya](https://www.nitw.ac.in/faculty/id/16343/).
+Before MS, I worked as a Data Engineer at [Target](http://target.com) where I developed multiple extract, transform, and load processes for the movement of big data. Prior to that, I received my Bachelor's degree in Computer Science and Engineering from [National Institute of Technology, Warangal](https://www.nitw.ac.in), India where I was an undergraduate researcher under the guidance of Prof. [Raju Bhukya](https://www.nitw.ac.in/faculty/id/16343/).
 
-Recent News
+Timeline
 ======
+* Feb 28, 2022 - Started working as Software Development Engineer 2 at [Amazon](https://www.amazon.com).
+* Jan 31, 2022 - Part of my MS thesis work *Targeted Attack on Deep RL-based Autonomous Driving with Learned Visual Patterns* is accepted at [ICRA 2022](http://icra2022.org).
+[[Paper](https://arxiv.org/abs/2109.07723)][[Website](https://asu-apg.github.io/Targeted-Physical-Adversarial-Attacks-on-AD/)]
+* Jun 01, 2021 - Started working as Software Development Engineer 2 at [GoDaddy](http://godaddy.com).
 * Feb 01, 2021 - Started Spring 2021 internship as Software Development Engineer at [GoDaddy](http://godaddy.com).
 * Jan 11, 2021 - Started [MORE](https://graduate.engineering.asu.edu/more/) program at ASU to perform research on robustness of deep reinforcement learning agents.
 * Sep 08, 2020 - Started Fall 2020 internship as Software Development Engineer at [GoDaddy](http://godaddy.com).
